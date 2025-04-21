@@ -5,9 +5,9 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN Indonesia" group-title="Nasional",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Red Bull TV" group-title="Olahraga &amp; Gaya Hidup",Red Bull TV
+#EXTINF:-1 tvg-id="Red Bull TV" group-title="Olahraga",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="Motor Vision TV" group-title="Olahraga &amp; Gaya Hidup",Motor Vision TV
+#EXTINF:-1 tvg-id="Motor Vision TV" group-title="Olahraga",Motor Vision TV
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Motorvision%2B
 #EXTINF:-1 tvg-id="My Cinema" group-title="Hiburan",My Cinema
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_HD
@@ -17,11 +17,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;user
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Family_Channel
 #EXTINF:-1 tvg-id="Aniplus" group-title="Hiburan",Aniplus
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=lite&amp;chname=ANIPLUS_HD
-#EXTINF:-1 tvg-id="My Kidz" group-title="Pengetahuan &amp; Anak-Anak",My Kidz
+#EXTINF:-1 tvg-id="My Kidz" group-title="Anak-Anak",My Kidz
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="AllPlay Ent." group-title="Hiburan",AllPlay Ent.
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-#EXTINF:-1 tvg-id="TV Kesehatan" group-title="Olahraga &amp; Gaya Hidup",TV Kesehatan
+#EXTINF:-1 tvg-id="TV Kesehatan" group-title="Gaya Hidup",TV Kesehatan
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 tvg-id="TV 9 Nusantara" group-title="Religi Islam",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
@@ -39,23 +39,23 @@ https://e.siar.us/live/tvmu.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="Sakti TV" group-title="Lokal Pride",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Moonbug" group-title="Pengetahuan &amp; Anak-Anak",Moonbug
+#EXTINF:-1 tvg-id="Moonbug" group-title="Anak-Anak",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Motor Racing TV" group-title="Olahraga &amp; Gaya Hidup",Motor Racing TV
+#EXTINF:-1 tvg-id="Motor Racing TV" group-title="Olahraga",Motor Racing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
-#EXTINF:-1 tvg-id="Horizon Sports" group-title="Olahraga &amp; Gaya Hidup",Horizon Sports
+#EXTINF:-1 tvg-id="Horizon Sports" group-title="Olahraga",Horizon Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 tvg-id="K+" group-title="Hiburan",K+
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
-#EXTINF:-1 tvg-id="Fight Sports" group-title="Olahraga &amp; Gaya Hidup",Fight Sports
+#EXTINF:-1 tvg-id="Fight Sports" group-title="Olahraga",Fight Sports
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=FIGHT_SPORTS_HD
-#EXTINF:-1 tvg-id="Saudi Qur&#039;an TV" group-title="Religi Islam",Saudi Qur&#039;an TV
+#EXTINF:-1 tvg-id="Saudi Quran TV" group-title="Religi Islam",Saudi Quran TV
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=Quran_TV
 #EXTINF:-1 tvg-id="Saudi Sunna TV" group-title="Religi Islam",Saudi Sunna TV
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=Sunna_TV
 #EXTINF:-1 tvg-id="Peace TV English" group-title="Religi Islam",Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-id="God TV" group-title="Religi Nonis",God TV
+#EXTINF:-1 tvg-id="God TV" group-title="Religi Kristen",God TV
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-id="Bollywood" group-title="Hiburan",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
@@ -81,11 +81,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky News" group-title="Berita",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-#EXTINF:-1 tvg-id="Accuweather" group-title="Berita",Accuweather
+#EXTINF:-1 tvg-id="Accuweather" group-title="Berita",Accuweather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
 #EXTINF:-1 tvg-id="CGTN" group-title="Berita",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="Astro Awani" group-title="Berita",Astro Awani
+#EXTINF:-1 tvg-id="Astro Awani" group-title="Upin Ipin",Astro Awani
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 #EXTINF:-1 tvg-id="Dunia Sinema" group-title="Hiburan",Dunia Sinema
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
@@ -141,18 +141,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde" group-title="Dunia",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-id="Berita RTM" group-title="Upin Ipin",Berita RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-#EXTINF:-1 tvg-id="TV6" group-title="Upin Ipin",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-#EXTINF:-1 tvg-id="TV Okey" group-title="Upin Ipin",TV Okey
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-#EXTINF:-1 tvg-id="TV2" group-title="Upin Ipin",TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
-#EXTINF:-1 tvg-id="TV1" group-title="Upin Ipin",TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
-#EXTINF:-1 tvg-id="Sukan RTM" group-title="Upin Ipin",Sukan RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 #EXTINF:-1 tvg-id="Aneka" group-title="Upin Ipin",Aneka
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sukmaindera" group-title="Upin Ipin",Sukmaindera
@@ -177,11 +165,11 @@ https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
 #EXTINF:-1 tvg-id="A2Z" group-title="Indonesia Utara",A2Z
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
-#EXTINF:-1 tvg-id="CCTN" group-title="Religi Nonis",CCTN
+#EXTINF:-1 tvg-id="CCTN" group-title="Religi Kristen",CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-id="GCTV" group-title="Religi Nonis",GCTV
+#EXTINF:-1 tvg-id="GCTV" group-title="Religi Kristen",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1 tvg-id="INC" group-title="Indonesia Utara",INC
+#EXTINF:-1 tvg-id="INC" group-title="Religi Kristen",INC
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="ANTV" group-title="Nguyen Nasional",ANTV
 https://ott1.nethubtv.vn/live/antv/playlist.m3u8
