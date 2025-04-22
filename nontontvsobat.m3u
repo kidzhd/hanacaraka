@@ -3,6 +3,8 @@
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN Indonesia" group-title="Nasional",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Jawapos TV" group-title="Nasional",Jawapos TV [Sby Feed]
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Inspira TV" group-title="Lokal Pride",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandung TV" group-title="Lokal Pride",Bandung TV
@@ -49,10 +51,14 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="France 24 English" group-title="Berita",France 24 English
 https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
+#EXTINF:-1 tvg-id="WION" group-title="Berita",WION
+http://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=WION
 #EXTINF:-1 tvg-id="Red Bull TV" group-title="Olahraga",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="UFC TV" group-title="Olahraga",UFC TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+#EXTINF:-1 tvg-id="PSJ TV" group-title="Olahraga",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Motor Vision TV" group-title="Olahraga",Motor Vision TV
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Motorvision%2B
 #EXTINF:-1 tvg-id="Motor Racing TV" group-title="Olahraga",Motor Racing TV
@@ -65,14 +71,34 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;amp;us
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dunia Sinema" group-title="Hiburan",Dunia Sinema
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+#EXTINF:-1 tvg-id="KIX" group-title="Hiburan",KIX
+http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+#EXTINF:-1 tvg-id="Dunia Sinema" group-title="Hiburan",TVN Movies
+http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
+#EXTINF:-1 tvg-id="Celestial Movies" group-title="Hiburan",Celestial Movies
+http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
+#EXTINF:-1 tvg-id="CCM" group-title="Hiburan",CCM
+http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
 #EXTINF:-1 tvg-id="My Cinema" group-title="Hiburan",My Cinema
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_HD
 #EXTINF:-1 tvg-id="My Cinema Asia" group-title="Hiburan",My Cinema Asia
 https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_Asia
 #EXTINF:-1 tvg-id="My Family" group-title="Hiburan",My Family
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Family_Channel
+#EXTINF:-1 tvg-id="Thrill" group-title="Hiburan",Thrill
+http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
 #EXTINF:-1 tvg-id="Aniplus" group-title="Hiburan",Aniplus
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=lite&amp;chname=ANIPLUS_HD
+#EXTINF:-1 tvg-id="HBO Hits" group-title="Hiburan",HBO Hits
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/591.ts
+#EXTINF:-1 tvg-id="HBO" group-title="Hiburan",HBO [ID]
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
+#EXTINF:-1 tvg-id="HBO Family" group-title="Hiburan",HBO Family
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
+#EXTINF:-1 tvg-id="HBO Signature" group-title="Hiburan",HBO Signature
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/873.ts
+#EXTINF:-1 tvg-id="Cinemax" group-title="Hiburan",Cinemax
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 #EXTINF:-1 tvg-id="K+" group-title="Hiburan",K+
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="Hiburan",HBO [VN]
@@ -81,6 +107,10 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="Warner TV" group-title="Hiburan",Warner TV [VN]
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
+#EXTINF:-1 tvg-id="Pop Musik" group-title="Hiburan",Pop Musik
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Maleo" group-title="Hiburan",Maleo
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bollywood" group-title="Hiburan",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-id="Bollywood Classic" group-title="Hiburan",Bollywood Classic
@@ -131,12 +161,16 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-id="White Channel" group-title="Religi Islam",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV 10" group-title="Religi Islam",TV 10
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 #EXTINF:-1 tvg-id="God TV" group-title="Religi Kristen",God TV
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-id="HCI" group-title="Religi Kristen",HCI
 https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 #EXTINF:-1 tvg-id="GCTV" group-title="Religi Kristen",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TBN Asia" group-title="Religi Kristen",TBN Asia
+http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
 #EXTINF:-1 tvg-id="GCN" group-title="Religi Kristen",GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN" group-title="Religi Kristen",EWTN
@@ -390,6 +424,8 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="CCTV 4" group-title="Dunia",CCTV 4
 https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
+#EXTINF:-1 tvg-id="KBS World" group-title="Dunia",KBS World
+http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-
 #EXTINF:-1 tvg-id="Ficom Channel" group-title="Informasi",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Accuweather Now" group-title="Informasi",Accuweather Now
