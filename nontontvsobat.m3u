@@ -213,7 +213,7 @@ https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="PYTV" group-title="Nguyen Loka",PYTV
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
-#EXTINF:-1 tvg-id="Supreme Master TV" group-title="Olahraga &amp; Gaya Hidup",Supreme Master TV
+#EXTINF:-1 tvg-id="Supreme Master TV" group-title="Gaya Hidup",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="TNTV" group-title="Nguyen Loka",TNTV
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
