@@ -1,14 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Al-Jazeera English" group-title="Berita",Al-Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="CNBC Indonesia" group-title="Nasional",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN Indonesia" group-title="Nasional",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Inspira TV" group-title="Lokal Pride",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Bandung TV" group-title="Lokal Pride",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="TA TV" group-title="Lokal Pride",TA TV
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Madu TV" group-title="Lokal Pride",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-id="Sakti TV" group-title="Lokal Pride",Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MGS TV" group-title="Lokal Pride",MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 tvg-id="Duta TV" group-title="Lokal Pride",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Jogja TV" group-title="Lokal Pride",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="Jogja Istimewa TV" group-title="Lokal Pride",Jogja Istimewa TV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTV" group-title="Lokal Pride",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Arek TV" group-title="Lokal Pride",Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+#EXTINF:-1 tvg-id="Balikpapan TV" group-title="Lokal Pride",Balikpapan TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+#EXTINF:-1 tvg-id="Celebes TV" group-title="Lokal Pride",Celebes TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+#EXTINF:-1 tvg-id="BBC News" group-title="Berita",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN International" group-title="Berita",CNN International
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="RT News" group-title="Berita",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky News" group-title="Berita",Sky News
+https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 tvg-id="Accuweather Now" group-title="Berita",Accuweather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
+#EXTINF:-1 tvg-id="CGTN" group-title="Berita",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="TRT World" group-title="Berita",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="France 24 English" group-title="Berita",France 24 English
+https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
 #EXTINF:-1 tvg-id="Red Bull TV" group-title="Olahraga",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="Motor Vision TV" group-title="Olahraga",Motor Vision TV
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Motorvision%2B
+#EXTINF:-1 tvg-id="Motor Racing TV" group-title="Olahraga",Motor Racing TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+#EXTINF:-1 tvg-id="Horizon Sports" group-title="Olahraga",Horizon Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
+#EXTINF:-1 tvg-id="Fight Sports" group-title="Olahraga",Fight Sports
+http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=FIGHT_SPORTS_HD
+#EXTINF:-1 tvg-id="MU TV" group-title="Olahraga",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dunia Sinema" group-title="Hiburan",Dunia Sinema
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 #EXTINF:-1 tvg-id="My Cinema" group-title="Hiburan",My Cinema
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Cinema_HD
 #EXTINF:-1 tvg-id="My Cinema Asia" group-title="Hiburan",My Cinema Asia
@@ -17,82 +67,70 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;user
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=lite&amp;chname=My_Family_Channel
 #EXTINF:-1 tvg-id="Aniplus" group-title="Hiburan",Aniplus
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=lite&amp;chname=ANIPLUS_HD
-#EXTINF:-1 tvg-id="My Kidz" group-title="Anak-Anak",My Kidz
-https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
-#EXTINF:-1 tvg-id="AllPlay Ent." group-title="Hiburan",AllPlay Ent.
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-#EXTINF:-1 tvg-id="TV Kesehatan" group-title="Gaya Hidup",TV Kesehatan
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXTINF:-1 tvg-id="TV 9 Nusantara" group-title="Religi Islam",TV 9 Nusantara
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="MQTV" group-title="Religi Islam",MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Elshinta TV" group-title="Lokal Pride",Elshinta TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-#EXTINF:-1 tvg-id="Inspira TV" group-title="Lokal Pride",Inspira TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Bandung TV" group-title="Lokal Pride",Bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 tvg-id="TV Mu" group-title="Religi Islam",TV Mu
-https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id="Madu TV" group-title="Lokal Pride",Madu TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 tvg-id="Sakti TV" group-title="Lokal Pride",Sakti TV
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Moonbug" group-title="Anak-Anak",Moonbug
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Motor Racing TV" group-title="Olahraga",Motor Racing TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
-#EXTINF:-1 tvg-id="Horizon Sports" group-title="Olahraga",Horizon Sports
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 #EXTINF:-1 tvg-id="K+" group-title="Hiburan",K+
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
-#EXTINF:-1 tvg-id="Fight Sports" group-title="Olahraga",Fight Sports
-http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=FIGHT_SPORTS_HD
-#EXTINF:-1 tvg-id="Saudi Quran TV" group-title="Religi Islam",Saudi Quran TV
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=Quran_TV
-#EXTINF:-1 tvg-id="Saudi Sunna TV" group-title="Religi Islam",Saudi Sunna TV
-http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=Sunna_TV
-#EXTINF:-1 tvg-id="Peace TV English" group-title="Religi Islam",Peace TV English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-id="God TV" group-title="Religi Kristen",God TV
-https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-id="Bollywood" group-title="Hiburan",Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-id="Bollywood Classic" group-title="Hiburan",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="Joo Music" group-title="Hiburan",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MU TV" group-title="Olahraga",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="Love Nature" group-title="Pengetahuan",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ZooMoo" group-title="Anak-Anak",ZooMoo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="AllPlay Ent." group-title="Hiburan",AllPlay Ent.
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-id="Action Hollywood Movies" group-title="Hiburan",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC News" group-title="Berita",BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN International" group-title="Berita",CNN International
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="DW English" group-title="Berita",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="RT News" group-title="Berita",RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky News" group-title="Berita",Sky News
-https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-#EXTINF:-1 tvg-id="Accuweather" group-title="Berita",Accuweather Now
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id="CGTN" group-title="Berita",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="Trace Urban" group-title="Hiburan",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Clubbing TV" group-title="Hiburan",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Kesehatan" group-title="Gaya Hidup",TV Kesehatan
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTINF:-1 tvg-id="Fashion TV" group-title="Gaya Hidup",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Supreme Master TV" group-title="Gaya Hidup",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="Love Nature" group-title="Pengetahuan",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN Documentary" group-title="Pengetahuan",CGTN Documentary
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-id="UGTV" group-title="Pendidikan",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 tvg-id="Moonbug" group-title="Anak-Anak",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="My Kidz" group-title="Anak-Anak",My Kidz
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 tvg-id="ZooMoo" group-title="Anak-Anak",ZooMoo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="TV 9 Nusantara" group-title="Religi Islam",TV 9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="Rodja TV" group-title="Religi Islam",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="MQTV" group-title="Religi Islam",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Mu" group-title="Religi Islam",TV Mu
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunna TV" group-title="Religi Islam",Saudi Sunna TV
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=Sunna_TV
+#EXTINF:-1 tvg-id="Peace TV English" group-title="Religi Islam",Peace TV English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="TV Muslim" group-title="Religi Islam",TV Muslim
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 tvg-id="White Channel" group-title="Religi Islam",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="God TV" group-title="Religi Kristen",God TV
+https://hlsb-us.god.tv/GODTV/USA-480.m3u8
+#EXTINF:-1 tvg-id="GCTV" group-title="Religi Kristen",GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 tvg-id="INC" group-title="Religi Kristen",INC
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 tvg-id="Dhamma TV" group-title="Religi Buddha",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-id="Astro Awani" group-title="Upin Ipin",Astro Awani
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
-#EXTINF:-1 tvg-id="Dunia Sinema" group-title="Hiburan",Dunia Sinema
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-#EXTINF:-1 tvg-id="CNA" group-title="Berita",CNA
-https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-#EXTINF:-1 tvg-id="France 24 English" group-title="Berita",France 24 English
-https://lb-mvtv-live.v2h-cdn.com/redirect/france24/france24.stream?type=m3u8
+#EXTINF:-1 tvg-id="Aneka" group-title="Upin Ipin",Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-id="Sukmaindera" group-title="Upin Ipin",Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPTV" group-title="Sawadikap",PPTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #EXTINF:-1 tvg-id="Channel 7" group-title="Sawadikap",Channel 7
@@ -137,108 +175,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 #EXTINF:-1 tvg-id="NBT" group-title="Sawadikap",NBT
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
-#EXTINF:-1 tvg-id="NHK World Japan" group-title="Berita",NHK World Japan
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 tvg-id="TV5 Monde" group-title="Dunia",TV5 Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-id="Aneka" group-title="Upin Ipin",Aneka
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-id="Sukmaindera" group-title="Upin Ipin",Sukmaindera
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-id="5 Plus" group-title="Burma",5 Plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel 7" group-title="Burma",Channel 7
-https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel K" group-title="Burma",Channel K
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="Mahar TV" group-title="Burma",Mahar TV
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MITV" group-title="Burma",MITV
-https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
-#EXTINF:-1 tvg-id="MNTV" group-title="Burma",MNTV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="MRTV" group-title="Burma",MRTV
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTV 4" group-title="Burma",MRTV 4
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTV Entertainment" group-title="Burma",MRTV Entertainment
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
-#EXTINF:-1 tvg-id="A2Z" group-title="Indonesia Utara",A2Z
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
-#EXTINF:-1 tvg-id="CCTN" group-title="Religi Kristen",CCTN
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-id="GCTV" group-title="Religi Kristen",GCTV
-http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:-1 tvg-id="INC" group-title="Religi Kristen",INC
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-#EXTINF:-1 tvg-id="ANTV" group-title="Nguyen Nasional",ANTV
-https://ott1.nethubtv.vn/live/antv/playlist.m3u8
-#EXTINF:-1 tvg-id="BKTV" group-title="Nguyen Loka",BKTV
-http://123.31.36.68/live.m3u8?c=vstv360&amp;deviceId=&amp;deviceType=&amp;gcId=1532&amp;location=NA&amp;pkg=pkg11.hni&amp;q=high&amp;requestTime=1586309420781&amp;time=1586395820&amp;token=LX-ibJYRUq9pflRtYAxfYQ&amp;type=tv&amp;userId=
-#EXTINF:-1 tvg-id="BLTV" group-title="Nguyen Loka",BLTV
-https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-id="BNTV" group-title="Nguyen Loka",BNTV
-https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV" group-title="Nguyen Loka",CTV
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-id="CBTV" group-title="Nguyen Loka",CBTV
-http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DBTV" group-title="Nguyen Loka",DBTV
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&amp;deviceId=&amp;deviceType=&amp;gcId=1532&amp;location=NA&amp;pkg=pkg11.hni&amp;q=high&amp;requestTime=1586309420781&amp;time=1586395820&amp;token=LX-ibJYRUq9pflRtYAxfYQ&amp;type=tv&amp;userId=
-#EXTINF:-1 tvg-id="DN1" group-title="Nguyen Loka",DN1
-http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DN2" group-title="Nguyen Loka",DN2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DTTV" group-title="Nguyen Loka",DTTV
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
-#EXTINF:-1 tvg-id="HGTV" group-title="Nguyen Loka",HGTV
-http://123.31.36.68/live.m3u8?c=vstv365&amp;deviceId=&amp;deviceType=&amp;gcId=1532&amp;location=NA&amp;pkg=pkg11.hni&amp;q=high&amp;requestTime=1586309420781&amp;time=1586395820&amp;token=LX-ibJYRUq9pflRtYAxfYQ&amp;type=tv&amp;userId=
-#EXTINF:-1 tvg-id="HTTV" group-title="Nguyen Loka",HTTV
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
-#EXTINF:-1 tvg-id="HTV7" group-title="Nguyen Nasional",HTV7
-http://125hvt.ddns.net:21585/htv7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HTV9" group-title="Nguyen Nasional",HTV9
-http://125hvt.ddns.net:21585/htv9/index.m3u8
-#EXTINF:-1 tvg-id="KGTV" group-title="Nguyen Loka",KGTV
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-id="KGTV1" group-title="Nguyen Loka",KGTV1
-https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="KTTV" group-title="Nguyen Loka",KTTV
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 tvg-id="LDTV" group-title="Nguyen Loka",LDTV
-http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LCTV" group-title="Nguyen Loka",LCTV
-https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 tvg-id="NTTV" group-title="Nguyen Loka",NTTV
-https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="PYTV" group-title="Nguyen Loka",PYTV
-http://113.161.4.48:8080/phuyen/tv/index.m3u8
-#EXTINF:-1 tvg-id="Supreme Master TV" group-title="Gaya Hidup",Supreme Master TV
-https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-id="TNTV" group-title="Nguyen Loka",TNTV
-https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="TGTV" group-title="Nguyen Loka",TGTV
-http://thtg.vn:8001/thtg.m3u8
-#EXTINF:-1 tvg-id="TVTV" group-title="Nguyen Loka",TVTV
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTV2" group-title="Nguyen Loka",TVTV2
-https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
-#EXTINF:-1 tvg-id="VLTV" group-title="Nguyen Loka",VLTV
-http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VPTV" group-title="Nguyen Loka",VPTV
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV1" group-title="Nguyen Nasional",VTV1
-http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VTV4" group-title="Nguyen Nasional",VTV4
-http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VTV9" group-title="Nguyen Nasional",VTV9
-http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="QPVN" group-title="Nguyen Nasional",QPVN
-https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Muslim" group-title="Religi Islam",TV Muslim
-https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-#EXTINF:-1 tvg-id="White Channel" group-title="Religi Islam",White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="Apsara TV" group-title="Apsara",Apsara TV
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bayon TV" group-title="Apsara",Bayon TV
@@ -263,11 +199,89 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTV" group-title="Apsara",MyTV
 http://43.252.18.195:5080/live/streams/mytv.m3u8
-#EXTINF:-1 tvg-id="UGTV" group-title="Pendidikan",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-#EXTINF:-1 tvg-id="Duta TV" group-title="Lokal Pride",Duta TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Jogja TV" group-title="Lokal Pride",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 tvg-id="RCTV" group-title="Lokal Pride",RCTV
-https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="5 Plus" group-title="Burma",5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel 7" group-title="Burma",Channel 7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel K" group-title="Burma",Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="Mahar TV" group-title="Burma",Mahar TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MITV" group-title="Burma",MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MNTV" group-title="Burma",MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="MRTV" group-title="Burma",MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTV 4" group-title="Burma",MRTV 4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTV Entertainment" group-title="Burma",MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+#EXTINF:-1 tvg-id="A2Z" group-title="Indonesia Utara",A2Z
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
+#EXTINF:-1 tvg-id="ANTV" group-title="Nguyen Nasional",ANTV
+https://ott1.nethubtv.vn/live/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="HTV7" group-title="Nguyen Nasional",HTV7
+http://125hvt.ddns.net:21585/htv7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HTV9" group-title="Nguyen Nasional",HTV9
+http://125hvt.ddns.net:21585/htv9/index.m3u8
+#EXTINF:-1 tvg-id="VTV1" group-title="Nguyen Nasional",VTV1
+http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VTV4" group-title="Nguyen Nasional",VTV4
+http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VTV9" group-title="Nguyen Nasional",VTV9
+http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="QPVN" group-title="Nguyen Nasional",QPVN
+https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
+#EXTINF:-1 tvg-id="BKTV" group-title="Nguyen Loka",BKTV
+http://123.31.36.68/live.m3u8?c=vstv360&amp;deviceId=&amp;deviceType=&amp;gcId=1532&amp;location=NA&amp;pkg=pkg11.hni&amp;q=high&amp;requestTime=1586309420781&amp;time=1586395820&amp;token=LX-ibJYRUq9pflRtYAxfYQ&amp;type=tv&amp;userId=
+#EXTINF:-1 tvg-id="BLTV" group-title="Nguyen Loka",BLTV
+https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="BNTV" group-title="Nguyen Loka",BNTV
+https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV" group-title="Nguyen Loka",CTV
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-id="CBTV" group-title="Nguyen Loka",CBTV
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DBTV" group-title="Nguyen Loka",DBTV
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&amp;deviceId=&amp;deviceType=&amp;gcId=1532&amp;location=NA&amp;pkg=pkg11.hni&amp;q=high&amp;requestTime=1586309420781&amp;time=1586395820&amp;token=LX-ibJYRUq9pflRtYAxfYQ&amp;type=tv&amp;userId=
+#EXTINF:-1 tvg-id="DN1" group-title="Nguyen Loka",DN1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DN2" group-title="Nguyen Loka",DN2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DTTV" group-title="Nguyen Loka",DTTV
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV" group-title="Nguyen Loka",HGTV
+http://123.31.36.68/live.m3u8?c=vstv365&amp;deviceId=&amp;deviceType=&amp;gcId=1532&amp;location=NA&amp;pkg=pkg11.hni&amp;q=high&amp;requestTime=1586309420781&amp;time=1586395820&amp;token=LX-ibJYRUq9pflRtYAxfYQ&amp;type=tv&amp;userId=
+#EXTINF:-1 tvg-id="HTTV" group-title="Nguyen Loka",HTTV
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+#EXTINF:-1 tvg-id="KGTV" group-title="Nguyen Loka",KGTV
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-id="KGTV1" group-title="Nguyen Loka",KGTV1
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="KTTV" group-title="Nguyen Loka",KTTV
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 tvg-id="LDTV" group-title="Nguyen Loka",LDTV
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LCTV" group-title="Nguyen Loka",LCTV
+https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+#EXTINF:-1 tvg-id="NTTV" group-title="Nguyen Loka",NTTV
+https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="PYTV" group-title="Nguyen Loka",PYTV
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1 tvg-id="TNTV" group-title="Nguyen Loka",TNTV
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 tvg-id="TGTV" group-title="Nguyen Loka",TGTV
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:-1 tvg-id="TVTV" group-title="Nguyen Loka",TVTV
+https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTV2" group-title="Nguyen Loka",TVTV2
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="VLTV" group-title="Nguyen Loka",VLTV
+http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VPTV" group-title="Nguyen Loka",VPTV
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK World Premium" group-title="Dunia",NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-id="Ficom Channel" group-title="Informasi",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
