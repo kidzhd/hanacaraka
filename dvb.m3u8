@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:0,1. GARUDA TV 22
+http://192.168.1.12:8999/stream=62.ts
+#EXTINF:0,2. Kompas TV 23
+http://192.168.1.12:8999/stream=60.ts
+#EXTINF:0,3. Jawapos TV 24
+http://192.168.1.12:8999/stream=55.ts
+#EXTINF:0,4. ANTV 25
+http://192.168.1.12:8999/stream=81.ts
+#EXTINF:0,5. VTV 26
+http://192.168.1.12:8999/stream=82.ts
+#EXTINF:0,6. INDOSIAR 27
+http://192.168.1.12:8999/stream=66.ts
+#EXTINF:0,7. TVRI BALI 28
+http://192.168.1.12:8999/stream=56.ts
+#EXTINF:0,8. TVRI NASIONAL 29
+http://192.168.1.12:8999/stream=54.ts
+#EXTINF:0,9. TVRI Sport 30
+http://192.168.1.12:8999/stream=58.ts
+#EXTINF:0,10. SCTV 31
+http://192.168.1.12:8999/stream=65.ts
+#EXTINF:0,11. SIN PO TV 32
+http://192.168.1.12:8999/stream=63.ts
+#EXTINF:0,12. MNCTV 33
+http://192.168.1.12:8999/stream=84.ts
+#EXTINF:0,13. RCTI 35
+http://192.168.1.12:8999/stream=78.ts
+#EXTINF:0,14. METRO TV 37
+http://192.168.1.12:8999/stream=73.ts
+#EXTINF:0,15. MDTV 39
+http://192.168.1.12:8999/stream=59.ts
+#EXTINF:0,16. JAGANTARA TV 40
+http://192.168.1.12:8999/stream=85.ts
+#EXTINF:0,17. TVONE 41
+http://192.168.1.12:8999/stream=83.ts
+#EXTINF:0,18. TRANS TV 43
+http://192.168.1.12:8999/stream=75.ts
+#EXTINF:0,19. TRANS 7 45
+http://192.168.1.12:8999/stream=77.ts
+#EXTINF:0,20. GTV 47
+http://192.168.1.12:8999/stream=79.ts
+#EXTINF:0,21. BALI TV 49
+http://192.168.1.12:8999/stream=61.ts
+#EXTINF:0,22. RTV 51
+http://192.168.1.12:8999/stream=69.ts
+#EXTINF:0,23. iNews 53
+http://192.168.1.12:8999/stream=80.ts
+#EXTINF:0,24. MOJI 55
+http://192.168.1.12:8999/stream=67.ts
+#EXTINF:0,25. MENTARI 56
+http://192.168.1.12:8999/stream=68.ts
+#EXTINF:0,26. NUSANTARA TV 57
+http://192.168.1.12:8999/stream=74.ts
+#EXTINF:0,27. TVRI WORLD 58
+http://192.168.1.12:8999/stream=57.ts
+#EXTINF:0,28. MAGNA CHANNEL 59
+http://192.168.1.12:8999/stream=71.ts
+#EXTINF:0,29. BN CHANNEL 60
+http://192.168.1.12:8999/stream=72.ts
