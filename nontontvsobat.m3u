@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CNBC Indonesia" group-title="Nasional",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505823.m3u8
 #EXTINF:-1 tvg-id="CNN Indonesia" group-title="Nasional",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505824.m3u8
 #EXTINF:-1 tvg-id="Jawapos TV" group-title="Nasional",Jawapos TV [Sby Feed]
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Inspira TV" group-title="Lokal Pride",Inspira TV
@@ -11,6 +11,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-id="TA TV" group-title="Lokal Pride",TA TV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BRTV" group-title="Lokal Pride",BRTV
+http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 #EXTINF:-1 tvg-id="Madu TV" group-title="Lokal Pride",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="Sakti TV" group-title="Lokal Pride",Sakti TV
@@ -19,6 +21,10 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-id="Duta TV" group-title="Lokal Pride",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Surabaya TV" group-title="Lokal Pride",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1 tvg-id="Sangaji TV" group-title="Lokal Pride",Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-id="Jogja TV" group-title="Lokal Pride",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="Jogja Istimewa TV" group-title="Lokal Pride",Jogja Istimewa TV
@@ -37,6 +43,8 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="RT News" group-title="Berita",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="SEA Today" group-title="Berita",SEA Today
+http://khano.nng.cloudns.us/live/m3u8/id/2224e34a782179c.m3u8
 #EXTINF:-1 tvg-id="Sky News" group-title="Berita",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-id="CGTN" group-title="Berita",CGTN
@@ -61,6 +69,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Motor Vision TV" group-title="Olahraga",Motor Vision TV
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Motorvision%2B
+#EXTINF:-1 tvg-id="Trace Sport Stars" group-title="Olahraga",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Motor Racing TV" group-title="Olahraga",Motor Racing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
 #EXTINF:-1 tvg-id="Horizon Sports" group-title="Olahraga",Horizon Sports
@@ -77,6 +87,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
 #EXTINF:-1 tvg-id="Celestial Movies" group-title="Hiburan",Celestial Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Celestial_Movies_HD
+#EXTINF:-1 tvg-id="!nsert" group-title="Hiburan",!nsert
+http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
+#EXTINF:-1 tvg-id="Dunia Lain" group-title="Hiburan",Dunia Lain
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505831.m3u8
 #EXTINF:-1 tvg-id="CCM" group-title="Hiburan",CCM
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
 #EXTINF:-1 tvg-id="My Cinema" group-title="Hiburan",My Cinema
@@ -103,6 +117,16 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="Hiburan",HBO [VN]
 http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-id="Animax" group-title="Hiburan",Animax
+http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-id="HBO" group-title="Hiburan",HBO [TH]
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOTHAI.m3u8
+#EXTINF:-1 tvg-id="HBO Family" group-title="Hiburan",HBO Family [TH]
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOFAMILY.m3u8
+#EXTINF:-1 tvg-id="HBO Signature" group-title="Hiburan",HBO Signature [TH]
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOSignature.m3u8
+#EXTINF:-1 tvg-id="HBO Hits" group-title="Hiburan",HBO Hits [TH]
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/HBOHits.m3u8
 #EXTINF:-1 tvg-id="AXN" group-title="Hiburan",AXN [VN]
 http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="Warner TV" group-title="Hiburan",Warner TV [VN]
@@ -119,30 +143,66 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AllPlay Ent." group-title="Hiburan",AllPlay Ent.
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:-1 tvg-id="Crime & Investigation" group-title="Hiburan",Crime & Investigation
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505825.m3u8
 #EXTINF:-1 tvg-id="Action Hollywood Movies" group-title="Hiburan",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Trace Urban" group-title="Hiburan",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Clubbing TV" group-title="Hiburan",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Prambors" group-title="Hiburan",Prambors
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505864.m3u8
+#EXTINF:-1 tvg-id="MIC" group-title="Hiburan",MIC
+http://cdn.nng.cloudns.us/live/m3u8/id/0c913970f4e0137.m3u8
+#EXTINF:-1 tvg-id="FLiK" group-title="Hiburan",FLiK
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505833.m3u8
 #EXTINF:-1 tvg-id="TV Kesehatan" group-title="Gaya Hidup",TV Kesehatan
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 #EXTINF:-1 tvg-id="Fashion TV" group-title="Gaya Hidup",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AFN" group-title="Gaya Hidup",AFN
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505809.m3u8
 #EXTINF:-1 tvg-id="My Zen" group-title="Gaya Hidup",My Zen
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV" group-title="Gaya Hidup",HGTV
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505840.m3u8
+#EXTINF:-1 tvg-id="BBC Lifestyle" group-title="Gaya Hidup",BBC Lifestyle
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505813.m3u8
 #EXTINF:-1 tvg-id="Supreme Master TV" group-title="Gaya Hidup",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="Love Nature" group-title="Pengetahuan",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Asia" group-title="Pengetahuan",Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="Outdoor Channel" group-title="Pengetahuan",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="History" group-title="Pengetahuan",History
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505841.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary" group-title="Pengetahuan",CGTN Documentary
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-id="INWILD" group-title="Pengetahuan",INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Earth" group-title="Pengetahuan",BBC Earth
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505812.m3u8
 #EXTINF:-1 tvg-id="UGTV" group-title="Pendidikan",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 tvg-id="Moonbug" group-title="Anak-Anak",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fun Planet" group-title="Anak-Anak",Fun Planet
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505848.m3u8
 #EXTINF:-1 tvg-id="My Kidz" group-title="Anak-Anak",My Kidz
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 tvg-id="Dunia Anak" group-title="Anak-Anak",Dunia Anak
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505830.m3u8
+#EXTINF:-1 tvg-id="NickJr" group-title="Anak-Anak",NickJr
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505861.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Anak-Anak",Nickelodeon
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505862.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" group-title="Anak-Anak",Cartoonito
+http://khano.nng.cloudns.us/live/m3u8/Kids/86555c60e79d125.m3u8
+#EXTINF:-1 tvg-id="DreamWorks" group-title="Anak-Anak",DreamWorks
+http://m1-max.dns-speedy.com:80/live/310533129D4368C/09D46A497281017/1505829.m3u8
 #EXTINF:-1 tvg-id="TV 9 Nusantara" group-title="Religi Islam",TV 9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="Rodja TV" group-title="Religi Islam",Rodja TV
@@ -153,6 +213,8 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-id="Al Iman TV" group-title="Religi Islam",Al Iman TV
 https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="Saudi Quran TV" group-title="Religi Islam",Saudi Quran TV
+https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 #EXTINF:-1 tvg-id="Saudi Sunna TV" group-title="Religi Islam",Saudi Sunna TV
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;amp;userid=wnctpm5uf2j&amp;amp;chname=Sunna_TV
 #EXTINF:-1 tvg-id="Peace TV English" group-title="Religi Islam",Peace TV English
@@ -161,6 +223,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-id="White Channel" group-title="Religi Islam",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="Yateem TV" group-title="Religi Islam",Yateem TV
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV 10" group-title="Religi Islam",TV 10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 #EXTINF:-1 tvg-id="God TV" group-title="Religi Kristen",God TV
@@ -173,8 +237,8 @@ http://45.32.115.103/live/livestream/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
 #EXTINF:-1 tvg-id="GCN" group-title="Religi Kristen",GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN" group-title="Religi Kristen",EWTN
-https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Catholic TV" group-title="Religi Kristen",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
 #EXTINF:-1 tvg-id="INC" group-title="Religi Kristen",INC
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="CGN Chinese" group-title="Religi Kristen",CGN Chinese
@@ -245,6 +309,8 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 #EXTINF:-1 tvg-id="Thai PBS" group-title="Sawadikap",Thai PBS
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
+#EXTINF:-1 tvg-id="News1" group-title="Sawadikap",News1
+https://server1.streamssl.com/stream/news1_mid.m3u8
 #EXTINF:-1 tvg-id="NBT" group-title="Sawadikap",NBT
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 #EXTINF:-1 tvg-id="Apsara TV" group-title="Apsara",Apsara TV
